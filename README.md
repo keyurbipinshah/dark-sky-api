@@ -4,6 +4,8 @@ In this project, I fetch the daily minimum and maximum temperatures for 17 citie
 
 List of cities (and their corresponding latitudes and longitudes):
 
+<center>
+
 | City                           | Latitude  | Longitude  |
 |:-------------------------------|----------:|-----------:|
 | Anchorage, Alaska              | 61.2181   | -149.9003  |
@@ -23,3 +25,5 @@ List of cities (and their corresponding latitudes and longitudes):
 | São José dos Campos, Brazil    | -23.2237  | -45.9009   |
 | Tehran, Iran                   | 35.6892   | 51.389     |
 | Warsaw, Poland                 | 52.2297   | 21.0122    |
+
+</center>
